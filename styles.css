@@ -6,11 +6,22 @@ body{/*background-colour;red;*/
 color: red;
 
 }
+
 p{font-family: 'Balsamiq Sans', cursive;
 font-family: 'Merriweather Sans', sans-serif;
 
 }
+#wrapper{
+margin: auto;	
+width: 90%
+}
+.header{
+	padding:20px;
+	background-color: #B2F3EE;
+	
+}
 h1{ color:black;
+	 text-align: left;
 }
 li> a { color: orange;
 }
