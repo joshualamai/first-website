@@ -1,0 +1,24 @@
+/* test
+white#ffffff
+black#000
+*/
+body{/*background-colour;red;*/
+color: red;
+
+}
+p{font-family: 'Balsamiq Sans', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+
+}
+h1{ color:black;
+}
+li> a { color: orange;
+}
+.teal{ color:teal;
+}
+td,th{
+	border:2px solid black;
+	padding: 50px
+	border-color: red;
+}
+ 
